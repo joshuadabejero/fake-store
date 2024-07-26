@@ -66,3 +66,13 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+### CHANGE LOGS:
+
+- Early Fix for Nuxt 2 initial broken setup from scratch.
+
+```json
+"stylelint": "^15.10.3",,
+"stylelint-config-recommended-vue": "^1.5.0",
+"stylelint-config-standard": "^34.0.0",
+```
